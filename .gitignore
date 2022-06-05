@@ -1,0 +1,9 @@
+/.idea
+/tmp/
+tmp/
+.DS_Store
+/env
+/.env
+token*.txt
+*.docx
+*.xls
