@@ -1,6 +1,5 @@
-/.idea
-*/__pycache__/
-application/db/__pycache__/
+.idea
+/__pycache__
 /tmp/
 tmp/
 .DS_Store
