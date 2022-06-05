@@ -2,9 +2,3 @@
 accounting_package_050622/__pycache__
 /tmp/
 tmp/
-.DS_Store
-/env
-/.env
-token*.txt
-*.docx
-*.xls
